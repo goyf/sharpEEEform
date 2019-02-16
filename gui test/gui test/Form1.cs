@@ -65,6 +65,8 @@ namespace gui_test
             string whereText = whereBox.Text;
             string whenText = whenBox.Text;
 
+
+
             string memText = "";
 
             if (com_mem[0] == 1)
@@ -100,8 +102,8 @@ namespace gui_test
         {
             //string path = @"D:\c_sharp_tests\";
 
-
-            string fileName = "eventReport" + passString[(int)field.when] + ".pdf";
+            string whenFile = passString[(int)field.when].Replace("/", "-");
+            string fileName = passString[(int)field.what] + passString[(int)field.when] + ".pdf";
             //FileStream fs = new FileStream(path+fileName, FileMode.Create, FileAccess.Write, FileShare.None);
             FileStream fs = new FileStream(fileName, FileMode.Create, FileAccess.Write, FileShare.None);
 

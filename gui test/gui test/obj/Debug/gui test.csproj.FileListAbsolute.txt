@@ -1,0 +1,22 @@
+D:\c_sharp_tests\gui test\gui test\bin\Debug\gui test.exe.config
+D:\c_sharp_tests\gui test\gui test\bin\Debug\gui test.exe
+D:\c_sharp_tests\gui test\gui test\bin\Debug\gui test.pdb
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui test.csprojAssemblyReference.cache
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui_test.Form1.resources
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui_test.Properties.Resources.resources
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui test.csproj.GenerateResource.cache
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui test.csproj.CoreCompileInputs.cache
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui test.exe
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui test.pdb
+D:\c_sharp_tests\gui test\gui test\bin\Debug\IronPdf.dll
+D:\c_sharp_tests\gui test\gui test\bin\Debug\PdfSharp.Charting.dll
+D:\c_sharp_tests\gui test\gui test\bin\Debug\PdfSharp.dll
+D:\c_sharp_tests\gui test\gui test\bin\Debug\IronPdf.pdb
+D:\c_sharp_tests\gui test\gui test\bin\Debug\IronPdf.xml
+D:\c_sharp_tests\gui test\gui test\bin\Debug\PdfSharp.xml
+D:\c_sharp_tests\gui test\gui test\bin\Debug\PdfSharp.Charting.xml
+D:\c_sharp_tests\gui test\gui test\bin\Debug\de\PdfSharp.resources.dll
+D:\c_sharp_tests\gui test\gui test\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\c_sharp_tests\gui test\gui test\obj\Debug\gui test.csproj.CopyComplete
+D:\c_sharp_tests\gui test\gui test\bin\Debug\itextsharp.dll
+D:\c_sharp_tests\gui test\gui test\bin\Debug\itextsharp.xml
